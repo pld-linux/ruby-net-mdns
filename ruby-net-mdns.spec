@@ -1,6 +1,6 @@
 %define tarname net-mdns
 Summary:	DNS Service Discovery module for Ruby
-Summary(pl.UTF-8):   Moduł DNS Service Discovery dla języka Ruby
+Summary(pl.UTF-8):	Moduł DNS Service Discovery dla języka Ruby
 Name:		ruby-net-mdns
 Version:	0.3
 Release:	1
